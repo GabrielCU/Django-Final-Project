@@ -13,3 +13,12 @@ An `onlinecourse` app has already been provided in this repo upon which you will
 For your reference, we have prepared the ER diagram design for the new assesement feature.
 
 ![Onlinecourse ER Diagram](https://github.com/ibm-developer-skills-network/final-cloud-app-with-database/blob/master/static/media/course_images/onlinecourse_app_er.png)
+
+![Lesson test](https://github.com/GabrielCU/Django-Final-Project/blob/main/Screenshots/08-03-2023-15-20-05.png)
+
+![Answered Lession Test](https://github.com/GabrielCU/Django-Final-Project/blob/main/Screenshots/08-03-2023-15-20-45.png)
+
+![Exam Passed](https://github.com/GabrielCU/Django-Final-Project/blob/main/Screenshots/08-03-2023-15-21-07.png)
+
+![Exam Failed](https://github.com/GabrielCU/Django-Final-Project/blob/main/Screenshots/08-03-2023-15-21-30.png)
+
