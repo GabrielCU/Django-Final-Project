@@ -102,8 +102,8 @@ class Question(models.Model):
     grade = models.IntegerField(default=1, null=False)
 
     def is_get_score(self, selected_ids):
-        all_answers = self.choice_set.filter(is_correct=True).count()
-        selected_correct = self.choice_set.filter(is_correct=True, id__in=selected_ids).count()
+        all_answers = self.choice_set.filter(is_correct=True).count() # type: ignore
+        selected_correct = self.choice_set.filter(is_correct=True, id__in=selected_ids).count() # type: ignore
         if all_answers == selected_correct:
             return True
         else: 
